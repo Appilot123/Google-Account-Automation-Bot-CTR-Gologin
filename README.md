@@ -23,7 +23,7 @@ We’re the team behind Appilot. We are a software development agency who helped
 </a>
 </div>
 
-### 🧠 Designed for Stealth & Reliability
+### 🧠 Designed for Search Behavior Emulation
 - Simulates **real users searching, clicking, and browsing.**
 - Supports **location-specific Google business results.**
 - Posts **realistic reviews** across multiple profiles with custom logic.
