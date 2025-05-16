@@ -122,3 +122,8 @@ We’re the team behind Appilot. We are a software development agency who helped
 - Supports **multi-session control** with proxy and profile isolation
 - Achieved <2% detection rate across thousands of runs
 
+### 🧠 Built by Appilot
+This bot was developed by the team at **[Appilot](https://appilot.app/)**, creators of scalable and stealth-hardened automation systems. From TikTok to Instagram, LinkedIn to Twitter — we build **realistic, human-like bots** that drive engagement and growth without breaking platform rules.
+
+Whether you’re automating DMs, comments, followers, or CTR — Appilot provides **custom solutions for creators, agencies, and businesses** looking for powerful results without compromise.
+
